@@ -54,5 +54,4 @@ FCFF = NOPAT + D&A − capital expenditure − change in net working capital. En
 ## Data and model caveats
 FY2023 headline figures are rounded from the results release. Forecast assumptions are analyst-created scenarios, not management guidance. The model reports enterprise value only; a reliable equity bridge requires reconciliation of net debt, joint ventures, lease liabilities and diluted shares. Figures from company alternative performance measures must be used consistently with the forecast perimeter.
 
-## Disclaimer
-Educational portfolio project only. Not investment advice, a price target, or a recommendation to buy, sell or hold securities.
+
