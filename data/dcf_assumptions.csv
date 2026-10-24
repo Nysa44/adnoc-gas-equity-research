@@ -1,0 +1,13 @@
+assumption,value,notes
+revenue_growth_y1,0.03,Illustrative analyst assumption; not company guidance
+revenue_growth_y2,0.03,Illustrative analyst assumption; not company guidance
+revenue_growth_y3,0.025,Illustrative analyst assumption; not company guidance
+revenue_growth_y4,0.02,Illustrative analyst assumption; not company guidance
+revenue_growth_y5,0.02,Illustrative analyst assumption; not company guidance
+ebitda_margin,0.368,FY2025 reported margin held flat in base case; scenario can vary
+da_pct_revenue,0.075,Illustrative assumption; replace with detailed audited D&A
+tax_rate,0.09,Illustrative normalized tax assumption; validate against tax disclosures
+capex_pct_revenue,0.12,Illustrative normalized capex assumption; FY2025 capex was elevated
+nwc_pct_incremental_revenue,0.02,Illustrative assumption
+wacc,0.085,Illustrative discount rate; not a market quote
+terminal_growth,0.02,Illustrative long-run nominal growth assumption

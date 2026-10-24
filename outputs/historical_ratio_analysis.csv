@@ -1,0 +1,4 @@
+fiscal_year,revenue_usd_m,ebitda_usd_m,net_income_usd_m,capex_usd_m,ebitda_margin_pct,net_income_margin_pct,source,revenue_growth_pct,ebitda_growth_pct,net_income_growth_pct,capex_growth_pct,calculated_ebitda_margin_pct,calculated_net_income_margin_pct
+2023,22670,7850,4720,1480,34.6,20.8,ADNOC Gas FY2023 results release; rounded headline figures,,,,,34.62726069695633,20.820467578297308
+2024,24428,8648,5001,1835,35.4,20.5,ADNOC Gas FY2025 results comparative table,7.754741949713284,10.165605095541409,5.953389830508482,23.98648648648649,35.401997707548716,20.472408711314884
+2025,23473,8636,5166,3639,36.8,22.0,ADNOC Gas FY2025 results; reported unaudited full-year highlights,-3.909448174226293,-0.13876040703052483,3.299340131973616,98.31062670299728,36.791206918587314,22.008264814893707
